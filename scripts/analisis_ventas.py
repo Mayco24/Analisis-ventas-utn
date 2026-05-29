@@ -16,3 +16,4 @@ for mes, monto in ventas.items():
 
 producto_mas_vendido = "Mouse"
 print("\nProducto mas vendido:", producto_mas_vendido)
+print("Analisis finalizado correctamente")
